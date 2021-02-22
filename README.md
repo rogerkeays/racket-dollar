@@ -1,4 +1,4 @@
-# racket-dollar
+# dollar
 
 An example #lang extension for racket that uses $ for unquote.
 
