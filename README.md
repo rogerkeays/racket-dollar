@@ -29,3 +29,7 @@ You can also use racket/base, or any other language that supports the , (unquote
 
 This language extension is essentially a single file, lang/reader.rkt, which implements the minimum three procedures required for a language: read, read-syntax and get-info. Check the source code for more details.
 
+## Related Resources
+
+For more solutions to your life's problems, [visit the author's website](https://rogerkeays.com)
+
